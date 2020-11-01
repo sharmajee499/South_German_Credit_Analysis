@@ -2,6 +2,8 @@
 Decision Tree Model on imbalanced dataset with various approach.
 
 ## Info About Data
+The data was extracted from : https://archive.ics.uci.edu/ml/datasets/South+German+Credit.
+This is a binary classification problem with the task of classifying good or bad credit. There are about 1000 data points having 19 variable. The dataset is imbalanced. (Good:700, Bad: 300). 
 
 ## Purpose
 
